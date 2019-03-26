@@ -29,3 +29,10 @@ This toolkit wouldn't be possible without your awesome packages.
 * [gulp-sass](https://www.npmjs.com/package/gulp-sass)
 * [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
 * [gulp-wait](https://www.npmjs.com/package/gulp-wait)
+
+### Social
+
+* [Facebook](https://facebook.com/DavidRosseljong)
+* [Twitter](https://twitter.com/DavidRosseljong)
+* [Instagram](https://instagram.com/rosselmediadesign)
+* [Discord Server](https://discord.gg/mPKqEmT)
