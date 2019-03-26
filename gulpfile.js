@@ -100,6 +100,8 @@ function image_task() {
  *
  * The SERVE task.
  * Initializing BrowserSync and specifying our build folder.
+ * 
+ * If you don't use PUG, put your HTML files in the build folder.
  *
  */
 function serve_task() {
