@@ -15,7 +15,7 @@ Thanks to all the people who are making the web awesome!
 * [Sass](https://sass-lang.com)
 * [Pug](https://pugjs.org)
 
-### Credits
+### Used NPM Packages
 
 This toolkit wouldn't be possible without your awesome packages.
 
