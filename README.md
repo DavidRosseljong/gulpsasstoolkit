@@ -1,6 +1,6 @@
 # [GULP & SASS Starter Toolkit](https://gulpsasstoolkit.com)
 
-![](https://gulpsasstoolkit.com/img/gulpsasstoolkit.jpg)
+![](https://i.david-rosseljong.com/gulpsasstoolkit/gulpsasstoolkit.jpg)
 
 This is a toolkit (starter pack) to help you setup your projects faster without always having to start from scratch. If you work with Gulp and SASS then this is for you.
 
